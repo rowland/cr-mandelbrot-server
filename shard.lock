@@ -1,0 +1,14 @@
+version: 1.0
+shards:
+  cr-mandelbrot:
+    github: rowland/cr-mandelbrot
+    commit: 595c6b6492b061c5e48171253cfebf0d4121a950
+
+  stumpy_core:
+    github: stumpycr/stumpy_core
+    version: 1.8.3
+
+  stumpy_png:
+    github: stumpycr/stumpy_png
+    version: 4.4.1
+

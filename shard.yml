@@ -1,0 +1,17 @@
+name: cr-mandelbrot-server
+version: 0.1.0
+
+authors:
+  - Brent Rowland <brent.rowland@ttiltd.com>
+
+targets:
+  cr-mandelbrot-server:
+    main: src/cr-mandelbrot-server.cr
+
+crystal: 0.29.0
+
+license: MIT
+
+dependencies:
+  cr-mandelbrot:
+    github: rowland/cr-mandelbrot
